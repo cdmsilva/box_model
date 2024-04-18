@@ -1,0 +1,22 @@
+body{
+    background-color:antiquewhite;
+}
+
+
+div {
+    margin: auto;
+    display: block;
+    height: 400px;
+    width: 400px;
+    background-image: url(img/GettyImages-1515827076.webp);
+    border-radius: 20px;
+    border: 10px dotted rgb(104, 241, 104);
+    box-shadow:  20px 20px 10px 20px rgb(9, 139, 148);
+    background-size: cover;  
+}
+p{
+    padding-top: 100px; 
+    text-align: center;
+    color: whitesmoke;
+    font-size: x-large;
+}
